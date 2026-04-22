@@ -1,0 +1,4 @@
+__pycache__/
+Personal_readme.md
+*.pth
+src/cuda_check.py
