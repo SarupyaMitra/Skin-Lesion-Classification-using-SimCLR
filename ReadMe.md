@@ -154,7 +154,7 @@ The most important finding is that **overall accuracy is a misleading metric her
 Python = 3.9.23
 
 ### Dependencies
-Please refer to [requirements][requirements.txt]
+Please refer to [requirements](requirements.txt)
 
 ### Hardware
 GPU: Nvidia GeForce RTX 2080 Ti
