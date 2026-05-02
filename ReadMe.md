@@ -156,7 +156,7 @@ Python = 3.9.23
 ### Dependencies
 Please refer to [requirements](requirements.txt)
 
-### Hardware
+### Hardware Used
 GPU: Nvidia GeForce RTX 2080 Ti
 
 
